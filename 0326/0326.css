@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+    background-color: #F0E0C5;
+}
+h1 {
+    font-family: "標楷體";
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+p {
+    text-align: center;
+    font-family: "標楷體";
+}
